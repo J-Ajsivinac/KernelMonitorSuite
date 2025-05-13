@@ -1,0 +1,7 @@
+*.o
+*.out
+*.log
+*.swp
+*.bak
+build/
+.vscode/
