@@ -1,0 +1,1 @@
+obj-y += syscall_1.o
