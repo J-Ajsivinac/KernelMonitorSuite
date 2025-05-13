@@ -8,7 +8,6 @@ Este documento explica cómo configurar, compilar y ejecutar todas las partes de
 2. [🖥️ Servidor API en C](#servidor-api-en-c)
 3. [🌐 Aplicación Frontend](#aplicación-frontend)
 4. [🚀 Ejecución del Sistema Completo](#ejecución-del-sistema-completo)
-5. [🔧 Solución de Problemas](#solución-de-problemas)
 
 ## 🐧 Compilación del Kernel
 
